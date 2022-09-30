@@ -1,2 +1,2 @@
-# openfold-experiments
-Scratch space for experiments with OpenFold
+# openfold-dev
+Scratch space for setting up an OpenFold development environment
